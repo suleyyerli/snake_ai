@@ -1,0 +1,18 @@
+# Environnements virtuels
+env/
+venv/
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuration de l'éditeur
+.vscode/
+.idea/
+
+# Fichiers de logs
+*.log
+
+# Fichiers de base de données
+*.sqlite3
